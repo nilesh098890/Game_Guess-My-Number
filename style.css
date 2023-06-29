@@ -1,0 +1,44 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "poppins";
+}
+body{
+    background-color: rgb(241, 229, 229);
+}
+
+#container{
+    background-color: rgb(173, 102, 240);
+    border: 10px solid white;
+    height: 300px;
+    width: 800px;
+    margin: auto;
+    text-align: center;
+}
+
+p{
+    color: white;
+    font-size: 25px;
+}
+#input{
+    width: 100px;
+    margin: 25px auto;
+    padding: 30px;
+
+}
+
+#btn{
+    margin: 25px auto auto 5px;
+    cursor: pointer;
+    background-color: rgb(6, 6, 6);
+    color: white;
+    
+}
+#againbtn{
+    margin: 25px auto auto 5px;
+    cursor: pointer;
+    background-color: rgb(6, 6, 6);
+    color: white;
+    
+}
